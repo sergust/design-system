@@ -38,6 +38,7 @@
     "@vue/eslint-config-prettier": "^6.0.0",
     "@vue/eslint-config-typescript": "^7.0.0",
     "@vue/test-utils": "^1.0.3",
+    "auto": "^10.32.3",
     "babel-loader": "^8.2.3",
     "eslint": "^6.7.2",
     "eslint-plugin-prettier": "^3.3.1",
@@ -52,6 +53,6 @@
   "_id": "sensand-storybook@1.0.0",
   "license": "MIT",
   "readme": "ERROR: No README data found!",
-  "repository": "https://gitlab.com/sensand/sensand-design-system.git",
+  "repository": "https://github.com/sergust/design-system.git",
   "author": "Sergei Ustinov <sergey.ustinov@sensand.com>"
 }
