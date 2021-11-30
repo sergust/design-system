@@ -1,0 +1,18 @@
+<!-- This component has been made for demo and testing purposes. -->
+
+import { Meta, Story } from "@storybook/addon-docs";
+
+import Button from "@/components/controls/map/Button.vue";
+
+<Meta title="Components/Button" component={Button} />
+
+# Button
+
+<Story name="Primary">
+  {() => {
+    return {
+      components: { Button },
+      template: `<Button primary label="Button" />`,
+    };
+  }}
+</Story>
